@@ -9,4 +9,8 @@ public class Main {
     public static double dodaj(double a, double b){
         return a+b;
     }
+
+    public static double odejmij(double a, double b){
+        return a-b;
+    }
 }
